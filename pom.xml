@@ -3,7 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.zhangda</groupId>
-    <artifactId>jiazhanghui</artifactId>
+    <artifactId>myproject</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>AppFuse Spring MVC Application</name>
